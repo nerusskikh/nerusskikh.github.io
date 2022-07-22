@@ -1,4 +1,4 @@
-# My portfolio as a Data Scientist / Machine Learning Researcer
+# My portfolio as a Data Scientist / Machine Learning Researcher
 
 https://nerusskikh.github.io/
 
