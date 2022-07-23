@@ -31,7 +31,10 @@ ML researchers and developers to productionalizing it as a web service. The serv
 <center><img src="/assets/img/protomenal.png"/></center>
 <br>
 
-## 
+# Publications
+* Multimodal single cell data integration challenge: results and lessons learned : [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796.abstract)
+* Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis : [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7755413/)
+* CellCountCV-A Web-Application for Accurate Cell Counting and Automated Batch Processing of Microscopic Images Using Fully Convolutional Neural Networks: [link](https://pubmed.ncbi.nlm.nih.gov/32610652/)
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
