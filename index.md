@@ -5,16 +5,24 @@ layout: default
 # Portfolio
 
 ## ML-guided protein function enhancement framework (current)
-* Learning information-rich protein embeddings via large protein language models (pLM)
-* Data-effective learning of the protein fitness surrogate landscape
-* Searching for a promising candidates by combinatorial optimization of the learned fitness function
+I designed and led a team of three people through the implementation and deployment of a system that lets a customer (reagent manufacturer or a biotech startup) navigate a fitness landscape of mutant protein versions in search of functionally enhanced variants with respect to multiple protein aspects. In order to bring value to the customer, we only need the primary protein structure, as many as 18 mutant versions with experimentally evaluated fitness, and two weeks. The main components of the system are the following: 
+
+* A protein function regressor that makes use of information-rich embeddings derived from large protein language models (pLMs).
+
+* A graphical user interface that allows a customer to select promising candidates with desired properties and compare them using various visualizations.
+([hiplots](https://pypi.org/project/hiplot/) are awesome at that, see image below)
+* A search engine that performs directed evolution on a surrogate fitness landscape to maximize a specific function.
+* A database that stores millions of previously tested candidates.
+
+<center><img src="/assets/img/enhancement_hiplot.png"/></center>
+<br>
 
 
-Designed a production-grade system which lets a customer (reagent manufacturer or a biotech startup) get a suggestion mutant protein candidates based on a primary structure and as many as 18 datapoints 
+   My goal as a researcher and team leader of this project is to make the product as data-effective (therefore cost-effective) as possible and to further scale the product by making multiple customers stick to our service in their ongoing efforts to modernize the set of reagents used.
 
-## [Protomenal](https://protomenal.com) - protein functional domain annotation service
-I designed a novel approach for prediction of protein functional domains algorithm based on protein language models and deep metric learning and led a team of
-ML researchers and developers to productionalizing it as a web service. 
+## [Protomenal](https://protomenal.com) - protein functional domain annotation service.
+  I designed a novel approach for prediction of protein functional domains algorithm based on protein language models and deep metric learning and led a team of
+ML researchers and developers to productionalizing it as a web service. The service performs superior to alignemt-based methods in remote homology setup.  To my knowledge, this is the first ML-based web-service which predicts functional domains in multi-domain proteins (now [ProteInfer] (https://google-research.github.io/proteinfer/) does that too).
 
 
 
