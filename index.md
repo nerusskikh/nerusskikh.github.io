@@ -4,7 +4,7 @@ layout: default
 
 # Portfolio
 
-## ML-guided protein function enhancement framework (current)
+## ML-guided protein function enhancement framework (current work)
 I designed and led a team of three people through the implementation and deployment of a system that lets a customer (reagent manufacturer or a biotech startup) navigate a fitness landscape of mutant protein versions in search of functionally enhanced variants with respect to multiple protein aspects. In order to bring value to the customer, we only need the primary protein structure, as many as 18 mutant versions with experimentally evaluated fitness, and two weeks. The main components of the system are the following: 
 
 * A protein function regressor that makes use of information-rich embeddings derived from large protein language models (pLMs).
@@ -24,6 +24,10 @@ I designed and led a team of three people through the implementation and deploym
   I designed a novel approach for prediction of protein functional domains algorithm based on protein language models and deep metric learning and led a team of
 ML researchers and developers to productionalizing it as a web service. The service performs superior to alignemt-based methods in remote homology setup.  To my knowledge, this is the first ML-based web-service which predicts functional domains in multi-domain proteins (now [ProteInfer] (https://google-research.github.io/proteinfer/) does that too).
 
+<center><img src="/assets/img/protomenal.png"/></center>
+<br>
+
+## 
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
