@@ -19,10 +19,14 @@ I designed and led a team of three people through the implementation and deploym
 
 
    My goal as a researcher and team leader of this project is to make the product as data-effective (therefore cost-effective) as possible and to further scale the product by making multiple customers stick to our service in their ongoing efforts to modernize the set of reagents used.
+   
+## [Multimodal Single-Cell Data Integration Challenge](https://openproblems.bio/neurips_2021/) (part of NeurIPS 2021)
+Me (with my colleagues Gleb Ryazantsev and Igor I) participated in this competition and took a first place in ADT->GEX nomination of modality prediction task ([github](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods/tree/main/src/predict_modality/methods/novel)) and were runner-up in all nominations of modality matching task ([github](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods/tree/main/src/match_modality/methods/novel)).
+Publication regarding the competition: [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract)
 
 ## [Protomenal](https://protomenal.com) - protein functional domain annotation service.
   I designed a novel approach for prediction of protein functional domains algorithm based on protein language models and deep metric learning and led a team of
-ML researchers and developers to productionalizing it as a web service. The service performs superior to alignemt-based methods in remote homology setup.  To my knowledge, this is the first ML-based web-service which predicts functional domains in multi-domain proteins (now [ProteInfer] (https://google-research.github.io/proteinfer/) does that too).
+ML researchers and developers to productionalizing it as a web service. The service performs superior to alignemt-based methods in remote homology setup.  To my knowledge, this is the first ML-based web-service which predicts functional domains in multi-domain proteins (now [ProteInfer](https://google-research.github.io/proteinfer/) does that too).
 
 <center><img src="/assets/img/protomenal.png"/></center>
 <br>
