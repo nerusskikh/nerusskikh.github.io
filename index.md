@@ -2,6 +2,22 @@
 layout: default
 ---
 
+# Portfolio
+
+## ML-guided protein function enhancement framework (current)
+* Learning information-rich protein embeddings via large protein language models (pLM)
+* Data-effective learning of the protein fitness surrogate landscape
+* Searching for a promising candidates by combinatorial optimization of the learned fitness function
+
+
+Designed a production-grade system which lets a customer (reagent manufacturer or a biotech startup) get a suggestion mutant protein candidates based on a primary structure and as many as 18 datapoints 
+
+## [Protomenal](https://protomenal.com) - protein functional domain annotation service
+I designed a novel approach for prediction of protein functional domains algorithm based on protein language models and deep metric learning and led a team of
+ML researchers and developers to productionalizing it as a web service. 
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
