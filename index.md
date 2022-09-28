@@ -12,7 +12,7 @@ I designed and led a team of three people through the implementation and deploym
 
 * A graphical user interface that allows a customer to select promising candidates with desired properties and compare them using various visualizations.
 
-Hiplots (https://pypi.org/project/hiplot/) are particularly good at this (see image below).
+[Hiplots](https://pypi.org/project/hiplot/) are particularly good at this (see image below).
 
 * A search engine that performs directed evolution on a surrogate fitness landscape to maximize a specific function.
 
@@ -31,7 +31,7 @@ Hiplots (https://pypi.org/project/hiplot/) are particularly good at this (see im
 
 Our team (me and my colleagues Gleb Ryazantsev and Igor I) participated in this competition and won first place in the ADT->GEX nomination of the modality prediction task ([github](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods/tree/main/src/predict_modality/methods/novel)) and second place in all nominations of the modality matching task ([github](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods/tree/main/src/match_modality/methods/novel)).
 
-Publication regarding the competition: [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract/) <a href=["https://github.com/orderedlist](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract)">link</a>
+Publication regarding the competition: [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract/) 
 
 ## [Protomenal](https://protomenal.com) - protein functional domain annotation service.
 
@@ -42,9 +42,9 @@ ML researchers and developers to productionalizing it as a web service. The serv
 <center><img src="/assets/img/protomenal.png"/></center>
 
 # Publications
-* Multimodal single cell data integration challenge: results and lessons learned : [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796.abstract)
-* Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis : [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7755413/)
-* CellCountCV-A Web-Application for Accurate Cell Counting and Automated Batch Processing of Microscopic Images Using Fully Convolutional Neural Networks: [link](https://pubmed.ncbi.nlm.nih.gov/32610652/)
+* [Multimodal single cell data integration challenge: results and lessons learned](https://www.biorxiv.org/content/10.1101/2022.04.11.487796.abstract)
+* [Style transfer with variational autoencoders is a promising approach to RNA-Seq data harmonization and analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7755413/)
+* [CellCountCV-A Web-Application for Accurate Cell Counting and Automated Batch Processing of Microscopic Images Using Fully Convolutional Neural Networks](https://pubmed.ncbi.nlm.nih.gov/32610652/)
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
