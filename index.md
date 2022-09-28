@@ -10,15 +10,13 @@ I designed and led a team of three people through the implementation and deploym
 
 * A protein function regressor that makes use of information-rich embeddings derived from large protein language models (pLMs).
 
-* A graphical user interface that allows a customer to select promising candidates with desired properties and compare them using various visualizations.
-
-[Hiplots](https://pypi.org/project/hiplot/) are particularly good at this (see image below).
+* A graphical user interface that allows a customer to select promising candidates with desired properties and compare them using various visualizations ([hiplots](https://pypi.org/project/hiplot/) are particularly good at this - see image below).
 
 * A search engine that performs directed evolution on a surrogate fitness landscape to maximize a specific function.
 
 * A database that stores millions of previously tested candidates.
 
-<center><img src="/assets/img/enhancement_hiplot.png"/></center>
+<center><img src="/assets/img/enhancement_hiplot.png" alt="a screenshot with mutations hiplot"/></center>
 
 
 
@@ -39,7 +37,7 @@ Publication regarding the competition: [link](https://www.biorxiv.org/content/10
 
 ML researchers and developers to productionalizing it as a web service. The service performs superior to alignemt-based methods in remote homology setup.  To my knowledge, this is the first ML-based web-service which predicts functional domains in multi-domain proteins (now [ProteInfer](https://google-research.github.io/proteinfer/) does that too).
 
-<center><img src="/assets/img/protomenal.png"/></center>
+<center><img src="/assets/img/protomenal.png" alt="a screenshot from Protomenal main page"/></center>
 
 # Publications
 * [Multimodal single cell data integration challenge: results and lessons learned](https://www.biorxiv.org/content/10.1101/2022.04.11.487796.abstract)
