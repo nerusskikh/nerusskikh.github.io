@@ -18,7 +18,7 @@ Hiplots (https://pypi.org/project/hiplot/) are particularly good at this (see im
 
 * A database that stores millions of previously tested candidates.
 
-<center><img src="/assets/img/enhancement_hiplot.png"/>center>
+<center><img src="/assets/img/enhancement_hiplot.png"/></center>
 
 
 
