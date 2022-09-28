@@ -31,7 +31,7 @@ Hiplots (https://pypi.org/project/hiplot/) are particularly good at this (see im
 
 Our team (me and my colleagues Gleb Ryazantsev and Igor I) participated in this competition and won first place in the ADT->GEX nomination of the modality prediction task ([github](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods/tree/main/src/predict_modality/methods/novel)) and second place in all nominations of the modality matching task ([github](https://github.com/openproblems-bio/neurips2021_multimodal_topmethods/tree/main/src/match_modality/methods/novel)).
 
-Publication regarding the competition: [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract) <a href=["https://github.com/orderedlist](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract)">link</a>
+Publication regarding the competition: [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract/) <a href=["https://github.com/orderedlist](https://www.biorxiv.org/content/10.1101/2022.04.11.487796v1.abstract)">link</a>
 
 ## [Protomenal](https://protomenal.com) - protein functional domain annotation service.
 
@@ -39,7 +39,7 @@ Publication regarding the competition: [link](https://www.biorxiv.org/content/10
 
 ML researchers and developers to productionalizing it as a web service. The service performs superior to alignemt-based methods in remote homology setup.  To my knowledge, this is the first ML-based web-service which predicts functional domains in multi-domain proteins (now [ProteInfer](https://google-research.github.io/proteinfer/) does that too).
 
-<center><img src="/assets/img/protomenal.png"/>center>
+<center><img src="/assets/img/protomenal.png"/></center>
 
 # Publications
 * Multimodal single cell data integration challenge: results and lessons learned : [link](https://www.biorxiv.org/content/10.1101/2022.04.11.487796.abstract)
